@@ -2,7 +2,11 @@
 
 Inicio Programa
 
+
+
 declaro double Altura y Base
+
+
 
 "Ingresar base rectangulo"
  
@@ -14,6 +18,7 @@ declaro double Altura y Base
 
 
 
+
 "Ingresar altura rectangulo"
  
   funcion GetNumeroPositivo
@@ -21,6 +26,8 @@ declaro double Altura y Base
   if Numero>0  -->  return Numero
  
   else--> pido otro numero
+
+
 
 
 If Base != Altura --> "El perimetro del rectangulo es: "
